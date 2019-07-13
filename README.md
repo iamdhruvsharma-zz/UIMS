@@ -16,3 +16,11 @@ Hope you like it!
 
 Screenshots: (More will be added soon!)
 
+![Login splash](https://github.com/iamdhruvsharma/UIMS/blob/master/1.PNG) <br/>
+Figure 1: Login Welcome Screen.
+
+![Login Fail](https://github.com/iamdhruvsharma/UIMS/blob/master/2.PNG) <br/>
+Figure 2: Login Failed!
+
+![Login Success](https://github.com/iamdhruvsharma/UIMS/blob/master/3.PNG) <br/>
+Figure 2: Login Success!
