@@ -1,3 +1,4 @@
+//Important Header Files
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -12,7 +13,7 @@ struct Student
  string lname; //last name
  string registration;
  string class; //section
-}studentData; //Variable Intialized
+}studentData; 
 
 
 struct Teacher
@@ -31,7 +32,8 @@ struct Teacher
 }tech[50];
 
 
-int login(){
+int login()
+{
    string pass ="";
    char ch;
    cout<<"\n\n\n\n\n\n\n\n\t\t\t\t\tUniversity Information Managment System\n\t\t\t\t\t\t    (Powered by DXT)\n\n";
