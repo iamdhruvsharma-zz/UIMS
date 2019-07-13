@@ -8,26 +8,26 @@ using namespace std;
 
 struct Student
 {
- string fname;//first name
- string lname;//last name
+ string fname; //first name
+ string lname; //last name
  string registration;
- string classes;//Class/Section
-}studentData;//Variable Intialized
+ string class; //section
+}studentData; //Variable Intialized
 
 
 struct Teacher
 {
- string fname;//first name of teacher
- string lname;//last name of teacher
- string qualification;//Qualification of teacher
- string experience;//Experiance of the person
- string salary;//Pay of the Teacher
- string subject;//subject whos he/she teach
- string lecture;//Lecture per Week
- string address;//Addrres of teacher home
- string cel_no;//Phone number 
- string blod_grp;//Bool Group 
- string serves;//Number of serves in School
+ string fname;
+ string lname;
+ string qualification;
+ string experience;
+ string salary;
+ string subject; 
+ string lecture; 
+ string address; 
+ string cellNo; 
+ string bloodGroup;
+ string serves;
 }tech[50];
 
 
@@ -53,8 +53,8 @@ int login(){
    }
    else
    {
-   	  cout << "\n\n\t\t\t\t\t  Password Incorrect!!!\n\n\t\t\t\t\t  Please Try Again.\n\n";
-   	  Sleep(2000);
+      cout << "\n\n\t\t\t\t\t  Password Incorrect!!!\n\n\t\t\t\t\t  Please Try Again.\n\n";
+      Sleep(2000);
       system("cls");
       login();
    }
