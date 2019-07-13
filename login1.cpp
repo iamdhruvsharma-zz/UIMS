@@ -48,7 +48,7 @@ int login()
       cout << '*';
       ch = _getch();
    }
-   if(pass == "dxt1")
+   if(pass == "uimsByDxt")
    {
       cout << "\n\n\n\t\t\t\t\t\t   Access Granted! \n";
       Sleep(2000);
