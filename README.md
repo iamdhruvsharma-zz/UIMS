@@ -13,3 +13,6 @@ I developed this project during my 2nd semester of the undergraduate course.
 Developed entirely in C++ with Love. :)
 
 Hope you like it!
+
+Screenshots: (More will be added soon!)
+
