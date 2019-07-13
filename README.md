@@ -1,5 +1,5 @@
 # UIMS
-A simple and powerful university management tool that allows the administrative staff to add, update or delete the information of students and teachers. (This project is implemented while considering security and data privacy as its top priority)
+A simple but powerful university management tool that allows the administrative staff to add, update or delete the information of students and teachers. (This project is implemented while considering security and data privacy as its top priority)
 
 Some silent features are:
 <ul>
