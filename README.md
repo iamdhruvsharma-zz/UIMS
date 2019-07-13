@@ -23,4 +23,4 @@ Figure 1: Login Welcome Screen.
 Figure 2: Login Failed!
 
 ![Login Success](https://github.com/iamdhruvsharma/UIMS/blob/master/3.PNG) <br/>
-Figure 2: Login Success!
+Figure 3: Login Success!
